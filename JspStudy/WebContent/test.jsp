@@ -10,7 +10,7 @@
 <%
 	String str="테스트";
 	//document.write("str=>"+str)
-	//System.out.println("str="+str);
+	System.out.println("str="+str);
 	out.println("<h1>"+"str="+str+"</h1>");
 %>
 </body>
